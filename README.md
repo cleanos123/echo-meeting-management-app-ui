@@ -48,4 +48,4 @@ Add screenshots here for:
 
 ## Prototype
 
-[View Interactive Figma Prototype](YOUR_FIGMA_LINK)
+[View Interactive Figma Prototype](https://www.figma.com/proto/LFnmK52XO3v7JyitXvabDs/Untitled?node-id=94-27&t=CgdsYxEE3lM1m8TY-1)
